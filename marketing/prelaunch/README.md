@@ -10,7 +10,11 @@ Tweet stream follows:
 
 * Is it art? Is it a  game? Is it an NFT? @solanapixels
 * Community generated NFTs generate community @solanapixels
+* Play to learn; learn to earn @solanapixels
 * DeFi Gamified @solanapixels
+* This can't be a blockchain game, it's too damn fast @solanapixels
+* How much for that pixel in the window? @solanapixels
+* That's me in that NFT! @solanapixels
 
 ### discord@solanapixels
 

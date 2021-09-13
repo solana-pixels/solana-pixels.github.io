@@ -14,7 +14,4 @@ The liquidity pool is initially created and funded by the Pixels team. Players c
 
 ## Token Allocation
 Upon creation of the project, 650,000 PXL tokens will be minted and the token mint will be locked so that no further tokens can be created. From this initial allocation, the team will then create and fund the liquidity pool as well as the player rewards account. Given that the mint is locked, the remaining tokens will be held in reserve for use as the project evolves.
-
 ![PXL Allocation Chart.png](images%5CPXL%20Allocation%20Chart.png)
-
-
